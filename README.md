@@ -2,10 +2,6 @@
 <h3 align="center">A Student, and Developer from India</h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%;"/>
-</p>
-
-<p align="center">
   <strong>🌱 Currently Learning:</strong> New Technoologies<br>
   <strong>💬 Ask me about:</strong> Python, C++, HTML, CSS, JavaScript, MongoDB, SQL<br>
   <strong>📫 Reach me at:</strong> <a href="mailto:omgupta.se@gmail.com">omgupta.se@gmail.com</a><br>
