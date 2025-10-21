@@ -85,13 +85,7 @@ Conversational AI platform with intelligent chat capabilities and export feature
 - Session management for multi-user support
 
 **Tech Stack:** Python, Django REST Framework, OpenAI API, Celery, JWT, JavaScript
-
----
-
-## 🎓 Education
-
-**B.Tech. in Computer Science and Engineering** (2021 - 2025)  
-KIET Group of Institutions, Ghaziabad, India
+abad, India
 
 ---
 
