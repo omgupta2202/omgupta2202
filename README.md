@@ -38,7 +38,7 @@ I architect the invisible backbone of high-performance applications. I specializ
 - Architected a **Hybrid Search** engine combining PostgreSQL filters with **Vector Embeddings** for intent-based discovery.
 - Optimized database performance, reducing query response times by **25%** through strategic indexing and caching.
 
-### 🤖 [LuminaAI: Conversational Systems](https://github.com/omgupta2202/insightbaat)
+### 🤖 [LuminaAI: Conversational Systems](https://github.com/omgupta2202/Lumina-AI)
 *Scalable Asynchronous Infrastructure*
 - Developed an LLM-orchestration layer with **multi-turn memory** and context persistence.
 - Engineered a **Celery/Redis pipeline** to offload heavy I/O tasks, ensuring a fluid user experience.
