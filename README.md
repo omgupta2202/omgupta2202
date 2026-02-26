@@ -17,9 +17,10 @@ I architect the invisible backbone of high-performance applications. I specializ
 ## 📊 System Diagnostics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omgupta2202&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&display_format=v2&count_private=true" alt="Om's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgupta2202&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css,jupyter%20notebook" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omgupta2202&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&hide_border=true&include_all_commits=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgupta2202&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&langs_count=8" height="180px"/>
 </p>
+
 
 ---
 
