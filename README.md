@@ -78,8 +78,8 @@ Docker, AWS (EC2 / RDS / S3), Nginx, and Celery workers.
 
 ## 🎓 Education
 
-- **B.Tech · Computer Science & Engineering** — KIET Group of Institutions, Ghaziabad &nbsp; *(Apr 2021 — Apr 2025)* &nbsp; · &nbsp; CGPA **7.56**
-- **Class XII (CBSE)** — Maharishi Vidya Mandir, Orai &nbsp; *(Apr 2018 — Apr 2020)* &nbsp; · &nbsp; **95%**
+- **B.Tech · Computer Science & Engineering** — KIET Group of Institutions, Ghaziabad &nbsp; *(Apr 2021 — Apr 2025)* &nbsp;
+- **Class XII (CBSE)** — Maharishi Vidya Mandir, Orai &nbsp; *(Apr 2018 — Apr 2020)* &nbsp;
 
 ---
 
