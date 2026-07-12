@@ -2,9 +2,11 @@
 
 ## Software Development Engineer · Backend · Python / Django
 
-I'm a Software Development Engineer at **Nickelfox Technologies**, working on Django and Django REST Framework APIs backed by PostgreSQL and Redis. I also build a few RAG and LLM-orchestration projects on the side.
+I'm a Software Development Engineer at **Nickelfox Technologies**, working on Django and Django REST Framework APIs backed by PostgreSQL and Redis. I also built a few RAG and LLM-orchestration projects on the side.
 
 I care about clean APIs, sensible schemas, and code the next engineer can read.
+
+> **Note:** Most of my daily commits and professional work for Nickelfox are tracked on my work account: [@om-nickelfox](https://github.com/om-nickelfox).
 
 ---
 
